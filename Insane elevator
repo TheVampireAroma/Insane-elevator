@@ -1,40 +1,4 @@
--- This script was generated using the MoonVeil Obfuscator v1.4.5 [https://moonveil.cc]
-
-local cb,Qe,lj,pd,ld,mD=type,bit32.bxor,getmetatable,pairs
-local MD,Hl,mE,sj,gh,oy,bD,Lt,Op,Yz,KB,am,TF,vi,pn,ta,HA,Dg,pt,do_,ir,Xv,Wm,Vw,bk;
-pt={};
-Wm,pn={},function(Yf,d_,oj)
-    Wm[d_]=Qe(Yf,54855)-Qe(oj,15613)
-    return Wm[d_]
-end;
-HA=Wm[-7416]or pn(93851,-7416,34177)
-while HA~=-7434- -18294 do
-    if HA<=18948- -17310 then
-        if HA>-8124- -22155 then
-            if HA>18475- -4915 then
-                if HA>=46899+-17562 then
-                    if HA<62993-27639 then
-                        if HA<=23964- -5373 then
-                            pt[1],HA="\17\'\29\20\50\1",Wm[-850]or pn(17682,-850,21126)
-                        else
-                            HA,pt[2]=Wm[-13691]or pn(100795,-13691,21244),(function(ep,rg)
-                                local Ic,jc,Ms,iG;
-                                Ic={};
-                                iG,jc={},function(Ww,Jx,na)
-                                    iG[Jx]=Qe(na,35596)-Qe(Ww,402)
-                                    return iG[Jx]
-                                end;
-                                Ms=iG[-25891]or jc(27824,-25891,30646)
-                                while Ms~=20676 do
-                                    if Ms>31765 then
-                                        if Ms<=36760 then
-                                            Ic[1]='';
-                                            Ic[2],Ic[3],Ic[4],Ms=255,(#ep-1)+255,1,iG[31438]or jc(18657,31438,25701)
-                                        else
-                                            Ic[5]=Ic[2]
-                                            if Ic[3]~=Ic[3]then
-                                                Ms=31765
-                                            else
+https://jnkie.com/get-key/httpsrawgithubusercontentcomthevampirearomainsane-elevatorrefsheadsmaininsane20elevator                                            else
                                                 Ms=17150
                                             end
                                         end
