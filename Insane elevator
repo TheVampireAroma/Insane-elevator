@@ -1,40 +1,4 @@
-https://jnkie.com/get-key/httpsrawgithubusercontentcomthevampirearomainsane-elevatorrefsheadsmaininsane20elevator                                            else
-                                                Ms=17150
-                                            end
-                                        end
-                                    elseif Ms>30669 then
-                                        return Ic[1]
-                                    elseif Ms>17150 then
-                                        Ic[1],Ms=Ic[1]..ta(bD(TF(ep,(Ic[5]-255)+1),TF(rg,(Ic[5]-255)%#rg+1))),iG[30438]or jc(11932,30438,53390)
-                                    elseif Ms<=11380 then
-                                        Ic[2]=Ic[2]+Ic[4];
-                                        Ic[5]=Ic[2]
-                                        if Ic[2]~=Ic[2]then
-                                            Ms=31765
-                                        else
-                                            Ms=iG[-667]or jc(17829,-667,3129)
-                                        end
-                                    else
-                                        if(Ic[4]>=0 and Ic[2]>Ic[3])or((Ic[4]<0 or Ic[4]~=Ic[4])and Ic[2]<Ic[3])then
-                                            Ms=iG[8728]or jc(38185,8728,105436)
-                                        else
-                                            Ms=iG[-3538]or jc(28844,-3538,25095)
-                                        end
-                                    end
-                                end
-                            end)(pt[2],pt[3])
-                        end
-                    elseif HA<=-1049412782/-29683 then
-                        HA,pt[3]=Wm[-15927]or pn(89989,-15927,62581),pt[3][pt[4]]
-                    else
-                        pt[3],HA='\211\185\223\188',Wm[-18406]or pn(99738,-18406,46119)
-                    end
-                elseif HA>=522423962/19121 then
-                    if HA<=-1.3337564071271661*-20485 then
-                        pt[5],HA='*',Wm[-22125]or pn(84147,-22125,58171)
-                    else
-                        Vw,HA=(function(...)
-                            return{[1]={...},[2]=KB('#',...)}
+https://jnkie.com/get-key/httpsrawgithubusercontentcomthevampirearomainsane-elevatorrefsheadsmaininsane20elevator                            return{[1]={...},[2]=KB('#',...)}
                         end),Wm[-1174]or pn(12178,-1174,4758)
                     end
                 elseif HA<=3.3455512031337435*7148 then
